@@ -28,5 +28,18 @@
 ## 👤 عن المطور
 **Oussama Bouallati**
 * مطور برمجيات مهتم بتطوير أدوات تخدم قطاع التربية والتعليم.
+
 ---
+
+> [!TIP]
+> ### 🇫🇷 En bref (Version Française)
+> **Excel_Raqmana** est un complément (Add-in) pour Microsoft Excel destiné aux enseignants algériens. Il automatise la génération des appréciations et observations pédagogiques pour la plateforme **Raqmana**. Gain de temps assuré et précision garantie !
+
+---
+
+> [!IMPORTANT]
+> ### 🇬🇧 Quick Overview (English Version)
+> **Excel_Raqmana** is a professional Microsoft Excel Add-in tailored for Algerian teachers. It automates the generation of student performance evaluations and pedagogical remarks for the **Raqmana** platform. This tool ensures high accuracy, prevents data entry errors, and saves significant administrative time.
+
+
 *هذا البرنامج مجاني تماماً، يمنع منعاً باتاً بيعه أو استغلاله تجارياً.*
